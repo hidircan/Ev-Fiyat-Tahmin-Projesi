@@ -1,2 +1,2 @@
-# Ev fiyat tahmini projesi
+
 
