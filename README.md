@@ -1,2 +1,2 @@
-# KaggleProjects
-Ev fiyat tahmini projesi
+# Ev fiyat tahmini projesi
+
